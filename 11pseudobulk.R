@@ -207,7 +207,7 @@ p = ggplot(df_cor, aes(x = log2FC_bulk, y = log2FC_cell)) +
 p
 
 
-### 重要基因的表达趋势一致性
+### consistency
 genes_use = c("STAT1", "IFIT1")
 
 ## 
