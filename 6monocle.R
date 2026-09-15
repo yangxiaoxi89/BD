@@ -1,5 +1,5 @@
 ######## trajectories #######
-setwd("~/Code/")
+setwd("~/")
 ##
 gc()
 base::load("~/annotation.rda")
